@@ -1,0 +1,12 @@
+img{
+    max-width: 100%;
+    height: auto;
+    background: lightblue;
+    /* 漸層變色 */
+    background: radial-gradient(white 30%,lightblue 70%);
+}
+
+.fa-star, .fa-star-half{
+    color: rgb(192, 240, 61);
+    padding: 3% 0;
+}
